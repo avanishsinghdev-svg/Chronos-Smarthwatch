@@ -3,7 +3,7 @@
 A fully responsive product landing page designed to showcase a luxury tech product. The focus of this project was high-conversion layout design and responsive architecture.
 
 ## 🚀 Live Demo
-[View the Live Project Here](PASTE_YOUR_GITHUB_PAGES_LINK_HERE)
+[View the Live Project Here](https://avanishsinghdev-svg.github.io/Chronos-Smarthwatch/)
 
 ## 🛠 Tech Stack
 * **HTML5:** Semantic sections (Hero, Features, Footer).
